@@ -1,0 +1,14 @@
+{
+  "name": "notatnik_online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "General.js",
+  "scripts": {
+    "test": "hordin"
+  },
+  "author": "Wiktor Zloch",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
